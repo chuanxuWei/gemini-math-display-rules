@@ -9,9 +9,8 @@ See: geminimathdisplayrules.md
 ## Usage Instructions
 
 ### How to use in Gemini
-1. **Create a new Gemini gem**: Create a new gem in the Gemini interface
-2. **Add reference material**: Upload the `geminimathdisplayrules.md` file as reference material to the gem
-3. **Configure saved info**: Copy and paste the complete content of `geminimathdisplayrules.md` directly into the gem's saved info section
+1. **Create a new Gemini gem**: Create a new gem in the Gemini interface and upload the `geminimathdisplayrules.md` file as reference material
+2. **Configure saved info**: Copy and paste the complete content of `geminimathdisplayrules.md` directly into the gem's saved info section
 
 After this configuration, Gemini will render mathematical formulas according to these rules, ensuring stable and consistent display effects.
 
@@ -24,8 +23,7 @@ After this configuration, Gemini will render mathematical formulas according to 
 ## 使用说明
 
 ### 如何在 Gemini 中使用
-1. **新建 Gemini 的 gem**：在 Gemini 界面中创建一个新的 gem
-2. **添加参考资料**：将 `geminimathdisplayrules.md` 文件作为参考资料上传到 gem 中
-3. **配置 saved info**：在 gem 的 saved info 部分直接复制粘贴 `geminimathdisplayrules.md` 的完整内容
+1. **新建 Gemini 的 gem**：在 Gemini 界面中创建一个新的 gem，并将 `geminimathdisplayrules.md` 文件作为参考资料上传
+2. **配置 saved info**：在 gem 的 saved info 部分直接复制粘贴 `geminimathdisplayrules.md` 的完整内容
 
 这样配置后，Gemini 就会按照这些规则来渲染数学公式，确保显示效果的稳定性和一致性。
